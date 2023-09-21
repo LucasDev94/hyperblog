@@ -5,6 +5,7 @@ body{
     font-size: 10px;
     margin: 0;
     padding: 0;
+    background-color: #4e4e4e;
 }
 
 #container{
@@ -13,6 +14,7 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: aliceblue;
 }
 
 #cabecera
@@ -22,7 +24,14 @@ body{
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 1em;
+    font-size: 16px;
+}
+
+#cabecera img{
+    width: 24px;
+    vertical-align: middle;
+    padding-right: 4px;
 }
 
 #cabecera #tagline
