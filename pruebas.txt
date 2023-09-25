@@ -16,8 +16,9 @@ ANIMALES
 1. Tuve varias gallinas
 2. Tuve patos
 3. Tuve Una ganza que se llamaba Chavela
+
 MASCOTAS
 
 1.Mi primera mascota se llamaba Lucas
-1. Mi primera mascota se llamaba Lucas
-2. Mi segunda mascota se llamaba Alcaraban
+2. Mi primera mascota se llamaba Lucas
+3. Mi segunda mascota se llamaba Alcaraban
