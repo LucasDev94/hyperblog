@@ -19,3 +19,5 @@ ANIMALES
 MASCOTAS
 
 1.Mi primera mascota se llamaba Lucas
+1. Mi primera mascota se llamaba Lucas
+2. Mi segunda mascota se llamaba Alcaraban
