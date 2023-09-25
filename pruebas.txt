@@ -22,3 +22,7 @@ MASCOTAS
 1.Mi primera mascota se llamaba Lucas
 2. Mi primera mascota se llamaba Lucas
 3. Mi segunda mascota se llamaba Alcaraban
+
+PRIMOS
+
+Juan, Johana, Brayan, Andres, Angie
